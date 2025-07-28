@@ -32,7 +32,7 @@ This Python-based tool processes PDF files to extract their **document title** a
 2. Run the script using Python:
 
    ```
-   python main.py
+   python App_1A.py
    ```
 3. The output will be saved as `.json` files in `/app/output/`.
 
